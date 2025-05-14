@@ -21,6 +21,7 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+sample_project_1/env
 *.egg-info/
 .installed.cfg
 *.egg
